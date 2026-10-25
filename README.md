@@ -1,2 +1,2 @@
-# wdd130
-Web Development Fundamentals
+# WELCOME TO WDD130
+Basically on Web Development Fundamentals
